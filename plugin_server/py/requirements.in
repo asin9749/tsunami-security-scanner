@@ -1,6 +1,6 @@
 absl-py==2.1.0
 aenum==3.1.15
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 glog==0.3.1
 grpcio==1.63.0
